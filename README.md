@@ -22,3 +22,4 @@ To anonymize multiple CSV files containing in a folder.
   Display column names.
   Ask the user to choose the column to be anonymised.
   Generate output containing both anonymised files and the files along with the key column.
+  (Please read the comments on the python code for detailed information on current capabilities of the code)
